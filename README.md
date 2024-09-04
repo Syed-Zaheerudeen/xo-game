@@ -1,0 +1,1 @@
+this is a xo game project built to learn javascript (dom manipulation)
